@@ -1,7 +1,7 @@
 import os
 from VCPlayBot.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
-      START_MSG = "** 𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝗜 𝗔𝗺 🎸Anjal Music [🎶](https://telegra.ph/file/3c0d8020d1805540033db.jpg)**\n\n🤖I am Powerful Bot for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      START_MSG = "** 𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝗜 𝗔𝗺 🎸Anjal Music [🎶](https://telegra.ph/file/3c0d8020d1805540033db.jpg)**\n\n🧚 I am Powerful Bot for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
       HELP_MSG = [
         ".",
 f"""

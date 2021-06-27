@@ -1,7 +1,7 @@
 import os
 from VCPlayBot.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n𝗜 𝗔𝗺 🎸Anjal Music [🎶](https://telegra.ph/file/3c0d8020d1805540033db.jpg)\n\n🧚 I am Powerful Bot for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})**\n\n𝗜 𝗔𝗺 🎸Aทℑαℒ Mų₷¡☪️ [🎶](https://telegra.ph/file/10da5ee297f6d16b23abc.jpg)\n\n🧚 I am Powerful Bot for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info."
       HELP_MSG = [
         ".",
 f"""
@@ -50,7 +50,7 @@ f"""
 """,
         
 f"""
-**=>> Channel Music Play 🛠**
+**=>> Channel Music Play🎵**
 
 ⚪️ For linked group admins only:
 
@@ -78,7 +78,7 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 """,
 
 f"""
-**=>> More tools 🧑‍🔧**
+**=>> More tools⚙️ **
 
 - /musicplayer [on/off]: Enable/Disable Music player
 - /admincache: Updates admin info of your group. Try if bot isn't recognize admin
